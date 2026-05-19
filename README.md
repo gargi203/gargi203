@@ -60,7 +60,7 @@ Modern animated frontend website focused on UI/UX and smooth interactions.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/gargi-sharma-18250728a" target="blank">
+<a href="https://www.linkedin.com/in/gargi-sharma-18250728a/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:gargi1845@gmail.com">
