@@ -3,7 +3,6 @@
 <h3 align="center">
 Full Stack Web Developer • C++ & Java Enthusiast • AI Explorer
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Building+Real+World+Projects;Exploring+AI+%26+Backend+Systems;Always+Learning+New+Technologies" />
 </p>
@@ -13,13 +12,16 @@ Full Stack Web Developer • C++ & Java Enthusiast • AI Explorer
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img align="right" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+</p>- 🎓 CSE Student at VIT Bhopal  
+- 💻 Full Stack Web Developer  <br>
+- 🧠 Strong foundation in C++, Java & DSA  <br>
+- 🌱 Exploring Backend Engineering, AI & scalable systems  <br>
+- ⚡ Building real-world projects with modern technologies  <br>
+- 🚀 Passionate about creating impactful digital experiences <br>
+<br>
 
-- 🎓 CSE Student at VIT Bhopal  
-- 💻 Full Stack Web Developer  
-- 🧠 Strong foundation in C++, Java & DSA  
-- 🌱 Exploring Backend Engineering, AI & scalable systems  
-- ⚡ Passionate about building impactful real-world applications  
 
 ---
 
