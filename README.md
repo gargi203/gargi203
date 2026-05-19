@@ -106,17 +106,6 @@ Interactive and visually engaging frontend project inspired by SPYLT, focused on
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gargi203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargi203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
