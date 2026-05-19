@@ -73,3 +73,6 @@ Modern animated frontend website focused on UI/UX and smooth interactions.
 <p align="center">
 ✨ Always learning, building, and growing as a developer ✨
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/gargi203/gargi203/blob/output/github-contribution-grid-snake.svg)
