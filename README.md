@@ -67,7 +67,7 @@ Modern animated frontend experience inspired by ZENTRY with immersive UI/UX, smo
 #### ⚙️ Tech Stack
 `HTML` `CSS` `JavaScript` `GSAP`
 
-🔗 [View Project](https://zentry-inspired-website-5u3aonn8h.vercel.app)
+🔗 [View Project](https://zentry-inspired-website.vercel.app/)
 
 ---
 
@@ -84,7 +84,7 @@ Interactive and visually engaging frontend project inspired by SPYLT, focused on
 #### ⚙️ Tech Stack
 `React` `JavaScript` `Tailwind CSS` `GSAP`
 
-🔗 [View Project](https://spylt-inspired-website-1wbdfsdmb.vercel.app)
+🔗 [View Project](https://spylt-inspired-website.vercel.app/)
 
 ---
 
