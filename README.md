@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gargi Sharma</h1>
 
 <h3 align="center">
-Full Stack Web Developer • C++ & Java Enthusiast • AI Explorer
+Full Stack Web Developer •Java Enthusiast • AI Explorer
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Building+Real+World+Projects;Exploring+AI+%26+Backend+Systems;Always+Learning+New+Technologies" />
